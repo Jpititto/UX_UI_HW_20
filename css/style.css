@@ -1,0 +1,27 @@
+h1 {
+    font-family: utopia-std-headline,serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    color: #5C4033;
+
+}
+
+.navItem {
+    text-decoration: none;
+    color: darkslategray;
+}
+
+a {
+    color: darkslategray;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+}
+
+.jumbotron-fluid {
+    background-color: orange ;
+    padding: 100px 30px 100px 30px;
+}
