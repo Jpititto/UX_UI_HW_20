@@ -6,7 +6,33 @@ h1 {
     color: #5C4033;
 
 }
+.logo {
+    margin-right: 20px;
+    padding-top: 10px;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+header{
+    align-content: center;
+}
 
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+.inline-block {
+    display: inline;
+    /* margin: 0; */
+    height: 80px;
+    align-content: center;
+
+}
+.nav {
+    height: 80px;
+    align-content: center;
+}
 .navItem {
     text-decoration: none;
     color: darkslategray;
